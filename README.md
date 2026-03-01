@@ -71,6 +71,15 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
  ```
+## Download Pretrained Checkpoint
+
+The pretrained model weights are hosted on Hugging Face Spaces.
+
+You can download them from:
+
+[Download checkpoint](https://huggingface.co/spaces/sana-jose123/cyclegan/resolve/main/checkpoints/checkpoint_epoch_143.pth)
+
+After downloading, place the file inside the `checkpoints/` folder in your project:
 
  ```bash
 python app.py
