@@ -81,6 +81,7 @@ You can download them from:
 
 After downloading, place the file inside the `checkpoints/` folder in your project:
 
+Then run the app locally:
  ```bash
 python app.py
  ```
